@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-p&label=Profile%20views&color=0e75b6&style=flat" alt="omar-p" /> </p>
 
-- 🔭 I’m currently working on [twitter-clone using AWS AppSync](https://github.com/Omar-p/appsync-backend)
-
 - 🌱 I’m currently learning **go and JS**
 
 - 📫 How to reach me **omar.plus.077@gmail.com**
