@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **go and JS**
 
-- 📫 How to reach me **omar.plus.077@gmail.com**
+- 📫 How to reach me **omarshabaan.dev@gmail.com**
 
 - 📄 Know about my experiences: [CV-GDRIVE](https://drive.google.com/file/d/1m4ITG2w-WSF6MmGak2myO_IWWmdpxlVa/view)
 
