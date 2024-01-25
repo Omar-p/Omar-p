@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omar.plus.077@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m4ITG2w-WSF6MmGak2myO_IWWmdpxlVa/view](https://drive.google.com/file/d/1m4ITG2w-WSF6MmGak2myO_IWWmdpxlVa/view)
+- 📄 Know about my experiences: [CV-GDRIVE](https://drive.google.com/file/d/1m4ITG2w-WSF6MmGak2myO_IWWmdpxlVa/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
