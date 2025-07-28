@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">AWS Certified Developer with a passion for backend‬ A ‭development using Java and Spring</h3>
+<h3 align="center">5X AWS Certified with a passion for backend‬ A ‭development using Java and Spring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-p&label=Profile%20views&color=0e75b6&style=flat" alt="omar-p" /> </p>
 
